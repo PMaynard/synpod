@@ -1,4 +1,4 @@
-# Syncpod
+# Synpod
 
 Simple, self-hosted, podcast synchronisation and record keeping web-service ~~written~~ hacked together in go.  
 
